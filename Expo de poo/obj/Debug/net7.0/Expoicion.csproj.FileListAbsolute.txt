@@ -1,0 +1,15 @@
+C:\Users\Jeremias\Desktop\Expoccicion\bin\Debug\net7.0\Expoicion.exe
+C:\Users\Jeremias\Desktop\Expoccicion\bin\Debug\net7.0\Expoicion.deps.json
+C:\Users\Jeremias\Desktop\Expoccicion\bin\Debug\net7.0\Expoicion.runtimeconfig.json
+C:\Users\Jeremias\Desktop\Expoccicion\bin\Debug\net7.0\Expoicion.dll
+C:\Users\Jeremias\Desktop\Expoccicion\bin\Debug\net7.0\Expoicion.pdb
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.csproj.AssemblyReference.cache
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.AssemblyInfoInputs.cache
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.AssemblyInfo.cs
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.dll
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\refint\Expoicion.dll
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.pdb
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\Expoicion.genruntimeconfig.cache
+C:\Users\Jeremias\Desktop\Expoccicion\obj\Debug\net7.0\ref\Expoicion.dll
